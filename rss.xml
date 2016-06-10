@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kenguin Blog]]></title>
+        <description><![CDATA[Kenguin Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 10 Jun 2016 19:17:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Never Tell People What You Do]]></title>
+            <description><![CDATA[<article><h1>Never Tell People What You Do</h1><p>Author's note: To help you actually make progress, this article combines one of my most popular pieces with some of the most practical advice I've shared... It's a simple question, and you've probably answered it hundreds of times. "What do you do?" If you're like most people, you probably get the answer dead wrong.</p><img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAhJAAAAJDZkNDNlZTcyLTlhODgtNGQwOC1hYjdmLTMwY2IwNjI3Yzg1MQ.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/never-tell-people-what-you-do-bruce-kasanoff-1?trk=hp-feed-article-title-hpm</link>
+            <guid isPermaLink="false">4e33a9ec-0bb5-49bf-bd00-0468345de8e3</guid>
+            <pubDate>Fri, 10 Jun 2016 19:17:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
